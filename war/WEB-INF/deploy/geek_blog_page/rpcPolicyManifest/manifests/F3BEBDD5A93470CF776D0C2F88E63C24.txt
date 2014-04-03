@@ -1,0 +1,2 @@
+serviceClass: com.geekblog.page.client.GreetingService
+path: EB4D2F57088C547D4D74E5519580DA46.gwt.rpc

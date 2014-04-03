@@ -1,0 +1,2 @@
+serviceClass: com.geekblog.page.client.LoginService
+path: D4ABA0B46FF0B1B7F53685D666D72B35.gwt.rpc

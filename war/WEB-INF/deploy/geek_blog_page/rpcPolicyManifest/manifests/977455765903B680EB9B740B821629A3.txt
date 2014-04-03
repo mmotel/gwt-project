@@ -1,0 +1,2 @@
+serviceClass: com.geekblog.page.client.EntryService
+path: 9AB8A2643F0F5FDD8982F5136676C676.gwt.rpc
